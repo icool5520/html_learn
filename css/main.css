@@ -1,0 +1,13 @@
+.main_link {
+	color: rgb(226, 25, 25);
+	text-decoration: none;
+}
+
+.main_link:hover {
+color: blue;
+text-decoration:line-through;
+text-decoration-color: chartreuse;
+}
+
+input[type="text"]:focus{color: red;}
+input[type="text"]{color: blue;}
